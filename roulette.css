@@ -1,0 +1,33 @@
+#main{
+    width:280px;
+    border: 2px solid;
+    margin : 0 auto;
+    text-align: center;
+}
+#roulette{
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid;
+    margin: 0px;
+    width: 70px;
+    height: 70px;
+}
+#footer{
+    width:280px;
+    margin : 0 auto;
+    padding-bottom: 10px;
+   
+}
+#startButton{
+    margin-top: 10px;
+}
+.red{
+    background-color: red;
+}
+.white{
+    background-color: white;
+}
+.orange{
+    background-color: darkorange;
+}
